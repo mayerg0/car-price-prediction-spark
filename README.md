@@ -1,5 +1,5 @@
 # car-price-prediction-spark
-Predicting Car MSRP Using Spark
+The goal of the project is to build a Spark pipeline that trains a random forest regression model to predict car MSRP. The best model is then selected and evaluated using cross-validation and grid search.
 
 ## Resources
 Data: https://www.kaggle.com/CooperUnion/cardataset
@@ -9,8 +9,6 @@ Upload the jupyter notebook to Google Colab to follow the notebook's Spark insta
 If Spark is available on your local machine, the notebook can be executed locally without re-installing Spark
 
 ## Steps
-The goal of the project is to build a Spark pipeline that trains a random forest regression model. The best model is then selected and evaluated using cross-validation and grid search.
-
 
 The notebook executes the following steps:
 
